@@ -118,6 +118,7 @@ function Log(strText)&#13;
         <file_path/>
         <instance_id>b265927933572a987c42c7bb9d5c7b88</instance_id>
         <instance_name>wildzurich</instance_name>
+        <merge_base/>
         <name>sys_atf_step_efaa1488db503490bc44d844ca96190c</name>
         <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">

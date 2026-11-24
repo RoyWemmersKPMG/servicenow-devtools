@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
+        <application_runtime_policy/>
         <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
         <guided_setup_guid/>
@@ -17,6 +18,7 @@
         <menu/>
         <name>DevTools</name>
         <package_json/>
+        <package_resolver_version/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -27,6 +29,7 @@
 DevTools contains a number of Script Includes with useful javascript functions and classes like a GetType() function that really works. Several UI improvements like the "Re-Test" button in the test result form and shortcuts to various - sometimes hidden - views and system properties in your instance.&#13;
 &#13;
 DevTools is also the backbone for the mature development and deployment process.</short_description>
+        <sn_managed>false</sn_managed>
         <source>x_snc_devtools</source>
         <store_correlation_id/>
         <store_url/>
@@ -46,14 +49,12 @@ DevTools is also the backbone for the mature development and deployment process.
         <vendor/>
         <vendor_prefix/>
         <version>1.147.0</version>
-        <x_snc_devtools_documentation_url>https://www.wildgrube.com/servicenow-devtools</x_snc_devtools_documentation_url>
-        <x_snc_devtools_maintainer>Sascha Wildgrube</x_snc_devtools_maintainer>
-        <x_snc_devtools_maintainer_email>sascha@wildgrube.com</x_snc_devtools_maintainer_email>
-        <x_snc_devtools_repo_url>https://github.com/saschawildgrube/servicenow-devtools.git</x_snc_devtools_repo_url>
+        <x_snc_devtools_documentation_url/>
+        <x_snc_devtools_maintainer/>
+        <x_snc_devtools_maintainer_email/>
+        <x_snc_devtools_repo_url/>
         <x_snc_devtools_showstopper>false</x_snc_devtools_showstopper>
         <x_snc_devtools_showstopper_details/>
-        <x_snc_wildgrubelab_test/>
-        <x_snc_wildgrubelab_test2/>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=d689f6901bd38450a89720a8ec4bcbfd"/>
 </record_update>

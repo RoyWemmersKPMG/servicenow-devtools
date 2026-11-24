@@ -99,6 +99,7 @@ See the documentation for Test Design Considerations</warning_message>
         <file_path/>
         <instance_id>b265927933572a987c42c7bb9d5c7b88</instance_id>
         <instance_name>wildzurich</instance_name>
+        <merge_base/>
         <name>sys_atf_step_606ad848db503490bc44d844ca961985</name>
         <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
